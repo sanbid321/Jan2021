@@ -6,7 +6,6 @@ public class TestPrint {
 		// TODO Auto-generated method stub
 		System.out.println("Push it to Git");
 		System.out.println("Added new line and pushed");
-		System.out.println("Added new line with comment");
 	}
 
 }
